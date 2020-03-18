@@ -1,4 +1,4 @@
-#P3 PierreT
+# P3 PierreT
 
 ##setup:
 
@@ -9,7 +9,7 @@
 
 -----------------------------------------
 
-##how to use:
+## how to use:
 
 this program is a game
 where the goal is to collect the objects
