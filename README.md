@@ -1,6 +1,6 @@
 # P3 PierreT
 
-##setup:
+## setup:
 
 * python3 -m venv p3_pierreT
 * source p3_pierreT/bin/activate
